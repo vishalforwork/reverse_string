@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-h1, .first, .second, #btn, #res{
+h1, .rev, #btn, #res{
     margin: 10px;
 }
 #str{
